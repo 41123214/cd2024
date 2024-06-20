@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123214協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T13:24:14+08:00</updated><entry><title>2024/06/13 41123214</title><link href="./w17%2041123214.html" rel="alternate"></link><published>2024-06-13T14:31:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-06-13:./w17 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123214協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T14:31:00+08:00</updated><entry><title>2024/06/20 41123214</title><link href="./w18%2041123214.html" rel="alternate"></link><published>2024-06-20T14:31:00+08:00</published><updated>2024-06-20T07:40:40+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-06-20:./w18 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;網際綜合球類競賽機器人協同設計與模擬&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_WIx1ntcTM0"&gt;影片&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_WIx1ntcTM0?si=aCWwlQ5hc5vNvSCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;步驟 : 
+1. 用NX1872畫出車體零件，將畫好零件檔存成STL檔
+2. 用CoppeliaSim將檔案打開
+3. 將零件拆解成一個一個
+4. 開啟碰撞，並插上銷
+5. 在老師網誌上&lt;a href="https://mde.tw/cd2024/blog/2024-cd-w13.html"&gt;下載球場&lt;/a&gt;
+6. 在老師網誌上找&lt;a href="https://mde.tw/pj4102/content/%E7%A8%8B%E5%BC%8F-1.html"&gt;程式&lt;/a&gt;
+7. 在命令字元打上pip install pyzmq cbor keyboard
+8. 將程式裡的名稱改成自己設的名子
+9. 啟動，然後失敗了&lt;/p&gt;</content><category term="w18 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/06/13 41123214</title><link href="./w17%2041123214.html" rel="alternate"></link><published>2024-06-13T14:31:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-06-13:./w17 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;h1&gt;實習評量項目一&lt;/h1&gt;
@@ -15,12 +32,12 @@
 &lt;h1&gt;實習評量項目三&lt;/h1&gt;
 &lt;p&gt;模擬失敗不能操控，且車子會解體
 影片&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YFiG-7B1YxA?si=IEO890_vKEfU3Y3z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w17 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/06/06 41123214</title><link href="./w16%2041123214.html" rel="alternate"></link><published>2024-06-06T14:31:00+08:00</published><updated>2024-06-15T13:24:14+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-06-06:./w16 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YFiG-7B1YxA?si=IEO890_vKEfU3Y3z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w17 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/06/06 41123214</title><link href="./w16%2041123214.html" rel="alternate"></link><published>2024-06-06T14:31:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-06-06:./w16 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;期末問卷調查與心得&lt;/h1&gt;
-&lt;p&gt;問卷裡問了每周的作業是什麼/提交次數/期末自評/期末心得等&lt;/p&gt;</content><category term="w16 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/05/30 41123214</title><link href="./w15%2041123214.html" rel="alternate"></link><published>2024-05-30T14:31:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-05-30:./w15 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;問卷裡問了每周的作業是什麼/提交次數/期末自評/期末心得等&lt;/p&gt;</content><category term="w16 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/05/30 41123214</title><link href="./w15%2041123214.html" rel="alternate"></link><published>2024-05-30T14:31:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-05-30:./w15 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;p&gt;# 網際綜合球類競賽機器人協同設計與模擬
@@ -30,7 +47,7 @@
 &lt;p&gt;足球門: 長 0.6m, 高 0.3m, 寬 0.1m&lt;/p&gt;
 &lt;p&gt;籃板: 長 0.3m, 高 0.3m, 寬 0.1m, 位於足球門上方中央&lt;/p&gt;
 &lt;p&gt;籃框: 由籃板向場內距離 0.1m, 內徑 0.2m, 框管直徑 0.02&lt;/p&gt;
-&lt;p&gt;球員尺寸範圍: 長寬高各 0.2m, 重量 5kg&lt;/p&gt;</content><category term="w15 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/05/23 41123214</title><link href="./w14%2041123214.html" rel="alternate"></link><published>2024-05-23T14:31:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-05-23:./w14 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;球員尺寸範圍: 長寬高各 0.2m, 重量 5kg&lt;/p&gt;</content><category term="w15 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/05/23 41123214</title><link href="./w14%2041123214.html" rel="alternate"></link><published>2024-05-23T14:31:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-05-23:./w14 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -46,14 +63,14 @@
 &lt;p&gt;8.鍵盤中的 a 鍵控制球員向左轉, d 鍵控制球員向右轉, w 向前移動, s 向後移動, space 鍵翻身, 按下 shift 鍵將加速並轉向, 按下 q 鍵則終止模擬.&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Md_c9sZUH1s?si=lg2KeJPXSOhuVULv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
-&lt;p&gt;雖然操作上很難控制/分數會跳，但整體來說還蠻有趣的。&lt;/p&gt;</content><category term="w14 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/05/16 41123214</title><link href="./w13%2041123214.html" rel="alternate"></link><published>2024-05-16T14:31:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-05-16:./w13 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;雖然操作上很難控制/分數會跳，但整體來說還蠻有趣的。&lt;/p&gt;</content><category term="w14 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/05/16 41123214</title><link href="./w13%2041123214.html" rel="alternate"></link><published>2024-05-16T14:31:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-05-16:./w13 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;零件組合&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/personal/41123214_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F41123214%5Fnfu%5Fedu%5Ftw%2FDocuments%2F%E7%B5%84%E7%AB%8B%E4%BB%B6%2Estl&amp;amp;parent=%2Fpersonal%2F41123214%5Fnfu%5Fedu%5Ftw%2FDocuments&amp;amp;ga=1"&gt;檔案&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
-&lt;p&gt;在組裝零件時，時常會因為約束問題而導致零件無法順利組裝。&lt;/p&gt;</content><category term="w13 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/05/09 41123214</title><link href="./w12%2041123214.html" rel="alternate"></link><published>2024-05-09T14:31:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-05-09:./w12 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;在組裝零件時，時常會因為約束問題而導致零件無法順利組裝。&lt;/p&gt;</content><category term="w13 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/05/09 41123214</title><link href="./w12%2041123214.html" rel="alternate"></link><published>2024-05-09T14:31:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-05-09:./w12 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -61,7 +78,7 @@
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/personal/41123214_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F41123214%5Fnfu%5Fedu%5Ftw%2FDocuments%2F41123214%2D1%2Epy&amp;amp;parent=%2Fpersonal%2F41123214%5Fnfu%5Fedu%5Ftw%2FDocuments&amp;amp;ga=1"&gt;NX零件2&lt;/a&gt;&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/01V69g1XjM8?si=xxOyhSNPktqPz7cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;心得 : 雖然nx相較inventer較難畫，但錄影功能還蠻特別的，可以只針對動作做紀錄，還可以轉成python檔。
-但是錄影有問題，在錄製時只要沒重一開始的建立模型錄製，錄製完的python檔案就會有問題。&lt;/p&gt;</content><category term="w12 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/04/28 41123214</title><link href="./w10%2041123214.html" rel="alternate"></link><published>2024-04-28T15:31:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-04-28:./w10 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+但是錄影有問題，在錄製時只要沒重一開始的建立模型錄製，錄製完的python檔案就會有問題。&lt;/p&gt;</content><category term="w12 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/04/28 41123214</title><link href="./w10%2041123214.html" rel="alternate"></link><published>2024-04-28T15:31:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-04-28:./w10 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -102,13 +119,13 @@
 &lt;p&gt;fetch_csv_data()&lt;/p&gt;
 &lt;p&gt;## &lt;a href="https://41123214.github.io/cd2024/content/%E5%8D%94%E5%90%8C%E8%B3%87%E6%96%99%E8%99%95%E7%90%86.html"&gt;連結&lt;/a&gt;
  # 心得
- 藉由以上程式可以快速列出所有人的github倉儲/組別/個人網頁&lt;/p&gt;</content><category term="w10 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/04/18 41123214</title><link href="./w9%2041123214.html" rel="alternate"></link><published>2024-04-18T15:31:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-04-18:./w9 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+ 藉由以上程式可以快速列出所有人的github倉儲/組別/個人網頁&lt;/p&gt;</content><category term="w10 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/04/18 41123214</title><link href="./w9%2041123214.html" rel="alternate"></link><published>2024-04-18T15:31:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-04-18:./w9 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;期中統整影片&lt;/h1&gt;
 &lt;p&gt;影片&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/byLxovEUzyI?si=vVDf8NWsUIG-_QjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w9 41123214"></category><category term="期中統整 41123214"></category></entry><entry><title>2024/03/28 41123214</title><link href="./w6%2041123214.html" rel="alternate"></link><published>2024-03-28T15:31:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-03-28:./w6 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/byLxovEUzyI?si=vVDf8NWsUIG-_QjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w9 41123214"></category><category term="期中統整 41123214"></category></entry><entry><title>2024/03/28 41123214</title><link href="./w6%2041123214.html" rel="alternate"></link><published>2024-03-28T15:31:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-03-28:./w6 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -265,12 +282,12 @@ Git branch
 Git 分支&lt;/p&gt;
 &lt;p&gt;Odoo PLM
 Odoo PLM&lt;/p&gt;
-&lt;p&gt;2021 ANALYSIS OF THE ODOO SOFTWARE CAPABILITIES REGARDING PRODUCT LIFECYCLE MANAGEMENT, MANUFACTURING EXECUTION SYSTEMS AND THEIR INTEGRATION.pdf or local download (password required) (Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析)&lt;/p&gt;</content><category term="w6 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/02/29 41123214</title><link href="./w2%201123214.html" rel="alternate"></link><published>2024-03-21T15:35:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-03-21:./w2 1123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;2021 ANALYSIS OF THE ODOO SOFTWARE CAPABILITIES REGARDING PRODUCT LIFECYCLE MANAGEMENT, MANUFACTURING EXECUTION SYSTEMS AND THEIR INTEGRATION.pdf or local download (password required) (Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析)&lt;/p&gt;</content><category term="w6 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/02/29 41123214</title><link href="./w2%201123214.html" rel="alternate"></link><published>2024-03-21T15:35:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-03-21:./w2 1123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;組長建立 Team 並設定分組倉儲&lt;/h1&gt;
-&lt;p&gt;因其分組倉儲擁有者為 mdecd2024, 因此無法從 Replit accoount 項下進行授權, 但是可以利用 ssh-keygen 建立 .ssh 目錄下的 id_rsa 與 id_rsa.pub, 之後除了將公鑰送到 Github 之外, 還需要在 .ssh 目錄中建立 config, 且將倉儲 .git/config 中的 https 協定改為 SSH. 範例: https://github.com/mdecd2024/test-ag1&lt;/p&gt;</content><category term="w2 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/03/14 41123214</title><link href="./w4%201123214.html" rel="alternate"></link><published>2024-03-21T15:35:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-03-21:./w4 1123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;因其分組倉儲擁有者為 mdecd2024, 因此無法從 Replit accoount 項下進行授權, 但是可以利用 ssh-keygen 建立 .ssh 目錄下的 id_rsa 與 id_rsa.pub, 之後除了將公鑰送到 Github 之外, 還需要在 .ssh 目錄中建立 config, 且將倉儲 .git/config 中的 https 協定改為 SSH. 範例: https://github.com/mdecd2024/test-ag1&lt;/p&gt;</content><category term="w2 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/03/14 41123214</title><link href="./w4%201123214.html" rel="alternate"></link><published>2024-03-21T15:35:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-03-21:./w4 1123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -306,7 +323,7 @@ Odoo PLM&lt;/p&gt;
 \translateToChinese{world},
 \translateToChinese{programming}
 \translateToChinese{language}.&lt;/p&gt;
-&lt;p&gt;\end{document}&lt;/p&gt;</content><category term="w4 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/03/21 41123214</title><link href="./w5%2041123214.html" rel="alternate"></link><published>2024-03-21T15:32:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-03-21:./w5 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;\end{document}&lt;/p&gt;</content><category term="w4 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/03/21 41123214</title><link href="./w5%2041123214.html" rel="alternate"></link><published>2024-03-21T15:32:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-03-21:./w5 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -314,12 +331,12 @@ Odoo PLM&lt;/p&gt;
 &lt;p&gt;第一教學影片&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RFxnVGaOesU?si=QQeeRsT2Vxp4Y0Es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;第二教學影片&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rwfAYitm6Dk?si=Fwlo97IKDhAv2Dn6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w5 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/03/07 41123214</title><link href="./w3%201123214.html" rel="alternate"></link><published>2024-03-07T15:35:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-03-07:./w3 1123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rwfAYitm6Dk?si=Fwlo97IKDhAv2Dn6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w5 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/03/07 41123214</title><link href="./w3%201123214.html" rel="alternate"></link><published>2024-03-07T15:35:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-03-07:./w3 1123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;將組員的個人倉儲設為分組倉儲子模組&lt;/h1&gt;
-&lt;p&gt;指令:git submodule add 組員的個人倉儲網址 組員的學號 如:git submodule add https://github.com/S41123216/cd2024.git 41123216 如此一來 Github 帳號為 S41123216 的組員, 其個人倉儲就會設定為分組倉儲的子模組, 而且是以其學號命名此一子模組的目錄名稱. 好處是: 各組員可以自行管理個人的課程倉儲與網站, 也就是位於其 Github 帳號下的 cd2024, 並且自行決定要整合到分組倉儲與網站的版本. 也能將自己在課程網站的資料, 直接用連結導入分組網站, 無需額外將資料搬進分組倉儲.&lt;/p&gt;</content><category term="w3 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/02/18 41123214</title><link href="./w1%2041123214.html" rel="alternate"></link><published>2024-02-18T11:01:00+08:00</published><updated>2024-06-15T13:22:51+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-02-18:./w1 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;指令:git submodule add 組員的個人倉儲網址 組員的學號 如:git submodule add https://github.com/S41123216/cd2024.git 41123216 如此一來 Github 帳號為 S41123216 的組員, 其個人倉儲就會設定為分組倉儲的子模組, 而且是以其學號命名此一子模組的目錄名稱. 好處是: 各組員可以自行管理個人的課程倉儲與網站, 也就是位於其 Github 帳號下的 cd2024, 並且自行決定要整合到分組倉儲與網站的版本. 也能將自己在課程網站的資料, 直接用連結導入分組網站, 無需額外將資料搬進分組倉儲.&lt;/p&gt;</content><category term="w3 41123214"></category><category term="網誌編寫 41123214"></category></entry><entry><title>2024/02/18 41123214</title><link href="./w1%2041123214.html" rel="alternate"></link><published>2024-02-18T11:01:00+08:00</published><updated>2024-06-20T07:24:59+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-02-18:./w1 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 

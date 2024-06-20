@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123214協同產品設計 - w18 41123214</title><link href="./" rel="alternate"></link><link href="./feeds/w18-41123214.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T14:31:00+08:00</updated><entry><title>2024/06/20 41123214</title><link href="./w18%2041123214.html" rel="alternate"></link><published>2024-06-20T14:31:00+08:00</published><updated>2024-06-20T07:40:40+08:00</updated><author><name>41123214</name></author><id>tag:None,2024-06-20:./w18 41123214.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;網際綜合球類競賽機器人協同設計與模擬&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_WIx1ntcTM0"&gt;影片&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_WIx1ntcTM0?si=aCWwlQ5hc5vNvSCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;步驟 : 
+1. 用NX1872畫出車體零件，將畫好零件檔存成STL檔
+2. 用CoppeliaSim將檔案打開
+3. 將零件拆解成一個一個
+4. 開啟碰撞，並插上銷
+5. 在老師網誌上&lt;a href="https://mde.tw/cd2024/blog/2024-cd-w13.html"&gt;下載球場&lt;/a&gt;
+6. 在老師網誌上找&lt;a href="https://mde.tw/pj4102/content/%E7%A8%8B%E5%BC%8F-1.html"&gt;程式&lt;/a&gt;
+7. 在命令字元打上pip install pyzmq cbor keyboard
+8. 將程式裡的名稱改成自己設的名子
+9. 啟動，然後失敗了&lt;/p&gt;</content><category term="w18 41123214"></category><category term="網誌編寫 41123214"></category></entry></feed>
